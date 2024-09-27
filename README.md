@@ -1,2 +1,1 @@
-# JavaScript
-code 
+# JavaScript code 
